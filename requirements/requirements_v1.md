@@ -8,3 +8,13 @@
 
 \- All events must be logged
 
+
+
+
+
+
+
+
+
+\- Peak traffic gets extended green signal timing
+
